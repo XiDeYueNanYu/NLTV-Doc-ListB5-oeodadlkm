@@ -2332,5 +2332,277 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Thực trạng bất bình đẳng thu nhập tại Việt Nam: Thách thức và định hướng chính sách trong bối cảnh mới",
+        "text": "Bất bình đẳng thu nhập, hiểu theo nghĩa là sự chênh lệch đáng kể về tài sản và thu nhập giữa các tầng lớp trong xã hội, vốn được xem là một rào cản nội tại có khả năng kiềm tỏa tốc độ tăng trưởng kinh tế bền vững. Tại Việt Nam, mặc dù giai đoạn 2006 - 2018 chứng kiến sự tăng trưởng kinh tế ấn tượng với mức bình quân 6,1% mỗi năm, nhưng khoảng cách giàu nghèo vẫn tiềm ẩn nhiều diễn biến phức tạp. Hệ số GINI trong giai đoạn này dao động từ 0,424 đến 0,436, phản ánh một trạng thái bất bình đẳng nằm trong ngưỡng an toàn theo chuẩn quốc tế, song xu hướng phân hóa lại đang có những biểu hiện đáng quan ngại. Cụ thể, trong khi hệ số này tại khu vực thành thị có dấu hiệu giảm dần, thì tại nông thôn, chỉ số bất bình đẳng lại ghi nhận xu hướng gia tăng, tạo nên một sự lệch pha rõ rệt giữa hai khu vực kinh tế trọng điểm.\n\nDữ liệu thống kê về thu nhập bình quân đầu người của năm nhóm dân cư cho thấy, dù mức thu nhập chung của toàn xã hội đều cải thiện, song tốc độ gia tăng của nhóm giàu nhất luôn vượt xa nhóm nghèo nhất. Sự chênh lệch giữa nhóm 5 (giàu nhất) và nhóm 1 (nghèo nhất) đã tăng từ 8,9 lần vào năm 2008 lên 9,86 lần vào năm 2018, minh chứng cho việc bất bình đẳng đang tiến triển với tốc độ đáng kể. Thêm vào đó, những biến động tiêu cực từ đại dịch Covid-19 gần đây đã giáng một đòn mạnh mẽ vào thị trường lao động, khiến hàng triệu người rơi vào tình trạng thất nghiệp hoặc tạm nghỉ việc, đặc biệt trong các ngành vận tải và sản xuất chế biến. Hệ lụy của tình trạng này không chỉ dừng lại ở khó khăn kinh tế tức thời mà còn đe dọa sự ổn định xã hội, làm trầm trọng thêm khoảng cách giàu nghèo vốn đã tồn tại.\n\nĐể giải quyết bài toán này, đòi hỏi một hệ thống giải pháp đồng bộ và quyết liệt từ Chính phủ, doanh nghiệp đến từng người lao động. Chính phủ cần ưu tiên chiến lược đầu tư vào nguồn lực con người thông qua việc phổ cập giáo dục chất lượng cao và cải thiện hệ thống y tế tại các vùng sâu, vùng xa, nơi điều kiện tiếp cận dịch vụ công vẫn còn hạn chế. Đồng thời, việc cải cách thể chế, tối ưu hóa hệ thống thuế và tăng cường hiệu quả đầu tư công là những đòn bẩy then chốt để tạo ra một sân chơi bình đẳng. Về phía doanh nghiệp, việc ứng dụng tiến bộ kỹ thuật và đa dạng hóa thị trường tiêu thụ là yếu tố sống còn để duy trì sức cạnh tranh. Song song đó, bản thân người lao động cũng cần chủ động nâng cao năng lực chuyên môn và kỹ năng mềm để thích ứng với biến động của thị trường. Nhìn chung, mục tiêu giảm thiểu bất bình đẳng không thể tách rời khỏi một chiến lược tăng trưởng kinh tế bao trùm, nơi mọi thành phần kinh tế đều được tạo điều kiện để đóng góp và thụ hưởng thành quả phát triển một cách công bằng.",
+        "dictionary": {
+            "bất bình đẳng": "不平等",
+            "thu nhập": "收入",
+            "nghĩa": "意义",
+            "sự chênh lệch": "差距",
+            "tài sản": "资产",
+            "tầng lớp": "阶层",
+            "xã hội": "社会",
+            "rào cản": "障碍",
+            "nội tại": "内在",
+            "khả năng": "能力",
+            "kiềm tỏa": "抑制",
+            "tốc độ": "速度",
+            "tăng trưởng": "增长",
+            "kinh tế": "经济",
+            "bền vững": "可持续",
+            "Việt Nam": "越南",
+            "giai đoạn": "阶段",
+            "chứng kiến": "见证",
+            "ấn tượng": "印象深刻",
+            "mức": "水平",
+            "bình quân": "平均",
+            "năm": "年",
+            "khoảng cách": "距离",
+            "giàu": "富",
+            "nghèo": "穷",
+            "diễn biến": "演变",
+            "phức tạp": "复杂",
+            "hệ số": "系数",
+            "GINI": "基尼",
+            "dao động": "波动",
+            "trạng thái": "状态",
+            "ngưỡng": "阈值",
+            "an toàn": "安全",
+            "chuẩn": "标准",
+            "quốc tế": "国际",
+            "xu hướng": "趋势",
+            "phân hóa": "分化",
+            "biểu hiện": "表现",
+            "đáng quan ngại": "令人担忧",
+            "khu vực": "区域",
+            "thành thị": "城市",
+            "dấu hiệu": "迹象",
+            "giảm": "减少",
+            "nông thôn": "农村",
+            "chỉ số": "指数",
+            "ghi nhận": "记录",
+            "gia tăng": "增加",
+            "lệch pha": "失调",
+            "rõ rệt": "明显",
+            "trọng điểm": "重点",
+            "dữ liệu": "数据",
+            "thống kê": "统计",
+            "đầu người": "人均",
+            "nhóm": "组",
+            "dân cư": "居民",
+            "cải thiện": "改善",
+            "vượt xa": "远超",
+            "minh chứng": "证明",
+            "tiến triển": "进展",
+            "biến động": "波动",
+            "tiêu cực": "负面",
+            "đại dịch": "疫情",
+            "Covid-19": "新冠肺炎",
+            "đòn": "打击",
+            "mạnh mẽ": "强烈",
+            "thị trường": "市场",
+            "lao động": "劳动",
+            "hàng triệu": "数百万",
+            "người": "人",
+            "tình trạng": "状况",
+            "thất nghiệp": "失业",
+            "nghỉ việc": "离职",
+            "ngành": "行业",
+            "vận tải": "运输",
+            "sản xuất": "生产",
+            "chế biến": "加工",
+            "hệ lụy": "后果",
+            "khó khăn": "困难",
+            "tức thời": "即时",
+            "đe dọa": "威胁",
+            "ổn định": "稳定",
+            "trầm trọng": "严重",
+            "tồn tại": "存在",
+            "giải quyết": "解决",
+            "bài toán": "问题",
+            "đòi hỏi": "要求",
+            "hệ thống": "系统",
+            "giải pháp": "方案",
+            "đồng bộ": "同步",
+            "quyết liệt": "果断",
+            "Chính phủ": "政府",
+            "doanh nghiệp": "企业",
+            "ưu tiên": "优先",
+            "chiến lược": "战略",
+            "đầu tư": "投资",
+            "nguồn lực": "资源",
+            "con người": "人力",
+            "phổ cập": "普及",
+            "giáo dục": "教育",
+            "chất lượng": "质量",
+            "y tế": "医疗",
+            "vùng sâu": "偏远地区",
+            "vùng xa": "边远地区",
+            "điều kiện": "条件",
+            "tiếp cận": "接触",
+            "dịch vụ": "服务",
+            "công": "公共",
+            "hạn chế": "有限",
+            "cải cách": "改革",
+            "thể chế": "体制",
+            "tối ưu hóa": "优化",
+            "thuế": "税收",
+            "hiệu quả": "效率",
+            "đòn bẩy": "杠杆",
+            "then chốt": "关键",
+            "sân chơi": "竞争环境",
+            "ứng dụng": "应用",
+            "tiến bộ": "进步",
+            "kỹ thuật": "技术",
+            "đa dạng hóa": "多样化",
+            "tiêu thụ": "消费",
+            "yếu tố": "因素",
+            "sống còn": "生存",
+            "duy trì": "维持",
+            "sức cạnh tranh": "竞争力",
+            "chủ động": "主动",
+            "nâng cao": "提高",
+            "năng lực": "能力",
+            "chuyên môn": "专业",
+            "kỹ năng": "技能",
+            "mềm": "软",
+            "thích ứng": "适应",
+            "mục tiêu": "目标",
+            "giảm thiểu": "减少",
+            "tách rời": "分离",
+            "bao trùm": "包容性",
+            "thành phần": "成分",
+            "đóng góp": "贡献",
+            "thụ hưởng": "享受",
+            "thành quả": "成果",
+            "phát triển": "发展",
+            "công bằng": "公平"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Bất bình đẳng thu nhập là một rào cản nội tại kiềm tỏa tốc độ tăng trưởng kinh tế.",
+                    "Mặc dù giai đoạn 2006 - 2018 kinh tế tăng trưởng, nhưng khoảng cách giàu nghèo vẫn phức tạp.",
+                    "Để giải quyết bài toán bất bình đẳng, đòi hỏi một hệ thống giải pháp đồng bộ và quyết liệt.",
+                    "Chính phủ cần ưu tiên chiến lược đầu tư vào nguồn lực con người thông qua giáo dục."
+                ],
+                "correct": "Để giải quyết bài toán bất bình đẳng, đòi hỏi một hệ thống giải pháp đồng bộ và quyết liệt."
+            },
+            {
+                "question": "Theo đoạn trích, hệ số GINI tại Việt Nam trong giai đoạn 2006 - 2018 dao động trong khoảng nào?",
+                "options": [
+                    "Từ 0,424 đến 0,436",
+                    "Từ 0,400 đến 0,450",
+                    "Từ 0,300 đến 0,400",
+                    "Từ 0,436 đến 0,500"
+                ],
+                "correct": "Từ 0,424 đến 0,436"
+            },
+            {
+                "question": "Theo đoạn trích, tại khu vực nông thôn, chỉ số bất bình đẳng có đặc điểm gì?",
+                "options": [
+                    "Giảm dần theo thời gian",
+                    "Ghi nhận xu hướng gia tăng",
+                    "Giữ nguyên không thay đổi",
+                    "Thấp hơn khu vực thành thị"
+                ],
+                "correct": "Ghi nhận xu hướng gia tăng"
+            },
+            {
+                "question": "Cụm từ “sân chơi bình đẳng” trong bài có thể được hiểu là gì?",
+                "options": [
+                    "Một khu vui chơi giải trí cho mọi người",
+                    "Một môi trường cạnh tranh công bằng và minh bạch",
+                    "Một chính sách hỗ trợ tài chính cho người nghèo",
+                    "Một hệ thống thuế thu nhập cá nhân mới"
+                ],
+                "correct": "Một môi trường cạnh tranh công bằng và minh bạch"
+            },
+            {
+                "question": "Nếu tốc độ tăng trưởng của nhóm giàu nhất luôn vượt xa nhóm nghèo nhất, thì điều gì sẽ xảy ra?",
+                "options": [
+                    "Khoảng cách giàu nghèo sẽ được thu hẹp",
+                    "Hệ số GINI sẽ giảm dần về mức 0",
+                    "Bất bình đẳng thu nhập sẽ ngày càng gia tăng",
+                    "Tốc độ tăng trưởng kinh tế sẽ dừng lại"
+                ],
+                "correct": "Bất bình đẳng thu nhập sẽ ngày càng gia tăng"
+            },
+            {
+                "question": "Cụm từ “giáng một đòn mạnh mẽ” trong đoạn văn có hàm ý gì?",
+                "options": [
+                    "Gây ra những tác động tiêu cực và nghiêm trọng",
+                    "Làm thay đổi hoàn toàn cơ cấu thị trường",
+                    "Tạo ra cơ hội mới cho người lao động",
+                    "Giúp thị trường lao động phát triển nhanh hơn"
+                ],
+                "correct": "Gây ra những tác động tiêu cực và nghiêm trọng"
+            },
+            {
+                "question": "Khi nhắc đến việc “đầu tư vào nguồn lực con người”, tác giả thể hiện thái độ gì?",
+                "options": [
+                    "Hoài nghi về tính khả thi của chính sách",
+                    "Đề cao và coi đó là giải pháp then chốt",
+                    "Thờ ơ với các vấn đề giáo dục và y tế",
+                    "Phê phán cách phân bổ ngân sách hiện tại"
+                ],
+                "correct": "Đề cao và coi đó là giải pháp then chốt"
+            },
+            {
+                "question": "Chi tiết về việc “hàng triệu người rơi vào tình trạng thất nghiệp” sau đại dịch Covid-19 nhằm mục đích gì?",
+                "options": [
+                    "Chứng minh sự yếu kém của ngành vận tải",
+                    "Làm rõ nguyên nhân khiến khoảng cách giàu nghèo trầm trọng hơn",
+                    "Kêu gọi người lao động chuyển đổi nghề nghiệp",
+                    "Phủ nhận những thành tựu kinh tế trước đó"
+                ],
+                "correct": "Làm rõ nguyên nhân khiến khoảng cách giàu nghèo trầm trọng hơn"
+            },
+            {
+                "question": "Nội dung chính của bài đọc này là gì?",
+                "options": [
+                    "Tác động tiêu cực của đại dịch Covid-19 đến kinh tế Việt Nam",
+                    "Thực trạng bất bình đẳng thu nhập và các giải pháp hướng tới tăng trưởng bao trùm",
+                    "Sự chênh lệch thu nhập giữa khu vực thành thị và nông thôn",
+                    "Vai trò của Chính phủ trong việc cải cách thể chế và hệ thống thuế"
+                ],
+                "correct": "Thực trạng bất bình đẳng thu nhập và các giải pháp hướng tới tăng trưởng bao trùm"
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Kinh tế tăng trưởng là yếu tố duy nhất để xóa đói giảm nghèo",
+                    "Bất bình đẳng là hệ quả tất yếu không thể tránh khỏi trong phát triển",
+                    "Cần có sự chung tay của nhiều phía để đạt được sự phát triển công bằng",
+                    "Chính phủ nên tập trung hoàn toàn vào khu vực nông thôn"
+                ],
+                "correct": "Cần có sự chung tay của nhiều phía để đạt được sự phát triển công bằng"
+            },
+            {
+                "question": "Từ “kiềm tỏa” trong câu “kiềm tỏa tốc độ tăng trưởng kinh tế” có thể được thay thế bằng từ nào?",
+                "options": [
+                    "Thúc đẩy",
+                    "Kìm hãm",
+                    "Phát huy",
+                    "Hỗ trợ"
+                ],
+                "correct": "Kìm hãm"
+            },
+            {
+                "question": "Theo bài đọc, sự chênh lệch thu nhập giữa nhóm giàu nhất và nghèo nhất đã thay đổi như thế nào từ năm 2008 đến 2018?",
+                "options": [
+                    "Giảm từ 9,86 lần xuống 8,9 lần",
+                    "Tăng từ 8,9 lần lên 9,86 lần",
+                    "Giữ nguyên ở mức 9,86 lần",
+                    "Tăng gấp đôi so với năm 2008"
+                ],
+                "correct": "Tăng từ 8,9 lần lên 9,86 lần"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
