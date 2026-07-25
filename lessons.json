@@ -3763,5 +3763,276 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Ca trù: Di sản văn hóa bác học và hành trình phục hưng giá trị dân tộc",
+        "text": "Ca trù, một loại hình nghệ thuật thanh nhạc kinh điển của Việt Nam, không chỉ là sự kết hợp tinh tế giữa âm nhạc và thi ca mà còn là biểu trưng cho cốt cách văn hóa tao nhã, bác học của tiền nhân. Khác biệt với các loại hình diễn xướng dân gian phổ biến như chèo hay hát văn vốn chú trọng vào sự biến hóa của trang phục và vũ đạo, ca trù đòi hỏi người nghệ sĩ sự tĩnh tại tuyệt đối. Trên chiếc chiếu cạp điều, đào nương tựa như một bức tượng sống, truyền tải những rung động sâu thẳm của tâm hồn thông qua kỹ thuật nhả chữ, lấy hơi điêu luyện cùng tiếng phách trúc sắc giòn. Sự độc đáo của nghệ thuật này nằm ở việc người hát không đơn thuần biểu diễn, mà đang thực hiện một cuộc đối thoại nội tâm với những tri âm thông qua các thể thơ hát nói đầy triết lý.\n\nCấu trúc âm nhạc của ca trù là một hệ thống khắt khe, đòi hỏi người nghệ sĩ phải trải qua khổ luyện công phu. Từ cách vận hơi từ đan điền, kết hợp với khoang mũi và cổ họng để tạo nên kỹ thuật đổ hột, sang hơi, cho đến việc duy trì hình thái gương mặt đoan trang, tất cả đều tạo nên một vẻ đẹp đài các, kín đáo. Bên cạnh đó, đàn đáy – nhạc cụ đặc trưng duy nhất của Việt Nam chỉ dành riêng cho ca trù – với âm sắc trầm đục, sâu lắng đã tạo nên sự đối chọi đầy ma mị với tiếng phách dứt khoát. Sự giao thoa giữa tiếng đàn, tiếng hát và tiếng trống chầu – công cụ để quan viên phẩm bình, khen chê – đã biến mỗi cuộc hát trở thành một không gian nghệ thuật nơi chủ và khách cùng hòa quyện, xóa nhòa ranh giới đẳng cấp để tôn vinh cái đẹp của văn chương.\n\nTuy nhiên, lịch sử của ca trù không phải lúc nào cũng trải đầy hoa hồng. Sau năm 1945, do những hiểu lầm mang tính thời đại về bản chất của các ca quán, loại hình nghệ thuật này đã từng bị xã hội khước từ, khiến nhiều nghệ nhân phải mai danh ẩn tích, đẩy di sản vào bờ vực lụi tàn. Sự đứt gãy trong dòng chảy truyền thừa đã khiến ca trù vắng bóng suốt nhiều thập kỷ. Chỉ trong khoảng một thập niên trở lại đây, nhờ sự nỗ lực của các nhà nghiên cứu và những nghệ sĩ tâm huyết, ca trù mới bắt đầu hành trình tìm lại vị thế vốn có. Việc phục hưng ca trù không chỉ là khôi phục một bộ môn nghệ thuật, mà còn là hành động khẳng định bản sắc văn hóa dân tộc trong dòng chảy hội nhập. Khi những tiếng phách lại vang lên, đó chính là lúc ca trù bắt đầu tìm lại những tri âm thực thụ, khơi gợi niềm tự hào về một di sản phi vật thể đã vượt lên trên những thăng trầm của lịch sử để khẳng định giá trị vĩnh cửu.",
+        "dictionary": {
+            "Ca trù": "歌筹",
+            "loại hình": "类型",
+            "nghệ thuật": "艺术",
+            "thanh nhạc": "声乐",
+            "kinh điển": "经典",
+            "Việt Nam": "越南",
+            "kết hợp": "结合",
+            "tinh tế": "精致",
+            "âm nhạc": "音乐",
+            "thi ca": "诗歌",
+            "biểu trưng": "象征",
+            "cốt cách": "风骨",
+            "văn hóa": "文化",
+            "tao nhã": "优雅",
+            "bác học": "博学",
+            "tiền nhân": "前人",
+            "khác biệt": "不同",
+            "diễn xướng": "演唱",
+            "dân gian": "民间",
+            "phổ biến": "普及",
+            "chèo": "嘲剧",
+            "hát văn": "文唱",
+            "chú trọng": "注重",
+            "biến hóa": "变化",
+            "trang phục": "服装",
+            "vũ đạo": "舞蹈",
+            "đòi hỏi": "要求",
+            "nghệ sĩ": "艺术家",
+            "tĩnh tại": "静谧",
+            "tuyệt đối": "绝对",
+            "chiếc chiếu": "席子",
+            "cạp điều": "红边",
+            "đào nương": "歌娘",
+            "bức tượng": "雕像",
+            "sống": "活",
+            "truyền tải": "传达",
+            "rung động": "震动",
+            "sâu thẳm": "深沉",
+            "tâm hồn": "灵魂",
+            "kỹ thuật": "技术",
+            "nhả chữ": "吐字",
+            "lấy hơi": "换气",
+            "điêu luyện": "娴熟",
+            "tiếng phách": "拍板声",
+            "trúc": "竹",
+            "sắc": "清脆",
+            "giòn": "清脆",
+            "độc đáo": "独特",
+            "biểu diễn": "表演",
+            "thực hiện": "进行",
+            "cuộc đối thoại": "对话",
+            "nội tâm": "内心",
+            "tri âm": "知音",
+            "thể thơ": "诗体",
+            "hát nói": "唱说",
+            "triết lý": "哲理",
+            "cấu trúc": "结构",
+            "hệ thống": "系统",
+            "khắt khe": "严苛",
+            "khổ luyện": "苦练",
+            "công phu": "功夫",
+            "vận hơi": "运息",
+            "đan điền": "丹田",
+            "khoang mũi": "鼻腔",
+            "cổ họng": "喉咙",
+            "đổ hột": "颤音",
+            "sang hơi": "换气",
+            "duy trì": "维持",
+            "hình thái": "形态",
+            "gương mặt": "面容",
+            "đoan trang": "端庄",
+            "vẻ đẹp": "美",
+            "đài các": "高贵",
+            "kín đáo": "含蓄",
+            "đàn đáy": "底琴",
+            "nhạc cụ": "乐器",
+            "đặc trưng": "特征",
+            "duy nhất": "唯一",
+            "âm sắc": "音色",
+            "trầm đục": "低沉",
+            "sâu lắng": "深沉",
+            "đối chọi": "对抗",
+            "ma mị": "魔幻",
+            "dứt khoát": "果断",
+            "giao thoa": "交融",
+            "tiếng đàn": "琴声",
+            "tiếng hát": "歌声",
+            "tiếng trống chầu": "鼓声",
+            "công cụ": "工具",
+            "quan viên": "官员",
+            "phẩm bình": "品评",
+            "khen chê": "褒贬",
+            "không gian": "空间",
+            "chủ": "主",
+            "khách": "客",
+            "hòa quyện": "融合",
+            "xóa nhòa": "抹去",
+            "ranh giới": "界限",
+            "đẳng cấp": "等级",
+            "tôn vinh": "尊崇",
+            "văn chương": "文学",
+            "lịch sử": "历史",
+            "hoa hồng": "玫瑰",
+            "hiểu lầm": "误解",
+            "thời đại": "时代",
+            "bản chất": "本质",
+            "ca quán": "歌馆",
+            "xã hội": "社会",
+            "khước từ": "拒绝",
+            "nghệ nhân": "艺人",
+            "mai danh ẩn tích": "隐姓埋名",
+            "di sản": "遗产",
+            "bờ vực": "边缘",
+            "lụi tàn": "凋零",
+            "đứt gãy": "断裂",
+            "dòng chảy": "流向",
+            "truyền thừa": "传承",
+            "vắng bóng": "缺席",
+            "thập kỷ": "年代",
+            "thập niên": "十年",
+            "nỗ lực": "努力",
+            "nhà nghiên cứu": "研究者",
+            "tâm huyết": "心血",
+            "hành trình": "旅程",
+            "vị thế": "地位",
+            "phục hưng": "复兴",
+            "khôi phục": "恢复",
+            "bộ môn": "学科",
+            "hành động": "行动",
+            "khẳng định": "肯定",
+            "bản sắc": "本色",
+            "dân tộc": "民族",
+            "hội nhập": "融入",
+            "vang lên": "响起",
+            "thực thụ": "真正",
+            "khơi gợi": "激发",
+            "niềm tự hào": "自豪",
+            "phi vật thể": "非物质",
+            "thăng trầm": "起伏",
+            "giá trị": "价值",
+            "vĩnh cửu": "永恒"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Ca trù là một loại hình nghệ thuật thanh nhạc kinh điển của Việt Nam.",
+                    "Sự độc đáo của nghệ thuật này nằm ở việc người hát không đơn thuần biểu diễn.",
+                    "Đàn đáy nhạc cụ đặc trưng duy nhất của Việt Nam chỉ dành riêng cho ca trù.",
+                    "Việc phục hưng ca trù là hành động khẳng định bản sắc văn hóa dân tộc."
+                ],
+                "correct": "Đàn đáy nhạc cụ đặc trưng duy nhất của Việt Nam chỉ dành riêng cho ca trù."
+            },
+            {
+                "question": "Theo đoạn trích, công cụ nào được quan viên sử dụng để phẩm bình, khen chê trong cuộc hát?",
+                "options": [
+                    "Tiếng phách trúc",
+                    "Đàn đáy",
+                    "Trống chầu",
+                    "Thể thơ hát nói"
+                ],
+                "correct": "Trống chầu"
+            },
+            {
+                "question": "Theo đoạn trích, đào nương cần có đặc điểm gì khi biểu diễn trên chiếc chiếu cạp điều?",
+                "options": [
+                    "Sự biến hóa linh hoạt của vũ đạo",
+                    "Sự tĩnh tại tuyệt đối",
+                    "Sự phô diễn trang phục cầu kỳ",
+                    "Sự tương tác sôi nổi với khán giả"
+                ],
+                "correct": "Sự tĩnh tại tuyệt đối"
+            },
+            {
+                "question": "Từ “tri âm” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Người cùng biểu diễn trên sân khấu",
+                    "Người am hiểu và đồng cảm với nghệ thuật",
+                    "Người sáng tác ra các thể thơ hát nói",
+                    "Người quản lý các ca quán xưa"
+                ],
+                "correct": "Người am hiểu và đồng cảm với nghệ thuật"
+            },
+            {
+                "question": "Vì sao ca trù từng bị xã hội khước từ sau năm 1945?",
+                "options": [
+                    "Do sự đứt gãy trong dòng chảy truyền thừa",
+                    "Do thiếu vắng các nghệ nhân tâm huyết",
+                    "Do những hiểu lầm mang tính thời đại về bản chất các ca quán",
+                    "Do sự cạnh tranh của các loại hình nghệ thuật khác"
+                ],
+                "correct": "Do những hiểu lầm mang tính thời đại về bản chất các ca quán"
+            },
+            {
+                "question": "Cụm từ “mai danh ẩn tích” trong đoạn văn có hàm ý gì?",
+                "options": [
+                    "Nghệ nhân từ bỏ nghề để làm công việc khác",
+                    "Nghệ nhân giấu tên tuổi và rút lui khỏi đời sống nghệ thuật",
+                    "Nghệ nhân đi lưu diễn ở những vùng đất xa xôi",
+                    "Nghệ nhân thay đổi nghệ danh để làm mới bản thân"
+                ],
+                "correct": "Nghệ nhân giấu tên tuổi và rút lui khỏi đời sống nghệ thuật"
+            },
+            {
+                "question": "Khi nhắc đến việc ca trù “vượt lên trên những thăng trầm của lịch sử”, thái độ của tác giả là gì?",
+                "options": [
+                    "Thờ ơ và khách quan",
+                    "Hoài nghi về sự tồn tại của di sản",
+                    "Trân trọng và ngưỡng mộ sức sống bền bỉ của nghệ thuật",
+                    "Lo lắng về tương lai của di sản"
+                ],
+                "correct": "Trân trọng và ngưỡng mộ sức sống bền bỉ của nghệ thuật"
+            },
+            {
+                "question": "Chi tiết “đàn đáy – nhạc cụ đặc trưng duy nhất của Việt Nam” được đưa ra nhằm mục đích gì?",
+                "options": [
+                    "Chứng minh sự khác biệt và độc đáo của ca trù",
+                    "So sánh ca trù với các loại hình nghệ thuật khác",
+                    "Giải thích lý do vì sao ca trù bị mai một",
+                    "Phê phán sự thiếu hụt nhạc cụ trong âm nhạc truyền thống"
+                ],
+                "correct": "Chứng minh sự khác biệt và độc đáo của ca trù"
+            },
+            {
+                "question": "Nội dung chính của bài đọc này là gì?",
+                "options": [
+                    "Lịch sử hình thành và phát triển của các ca quán",
+                    "Kỹ thuật hát ca trù và cách sử dụng đàn đáy",
+                    "Giá trị nghệ thuật và hành trình hồi sinh của ca trù",
+                    "So sánh sự khác biệt giữa ca trù, chèo và hát văn"
+                ],
+                "correct": "Giá trị nghệ thuật và hành trình hồi sinh của ca trù"
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Ca trù là một loại hình nghệ thuật cần được bảo tồn như một phần bản sắc dân tộc",
+                    "Nghệ thuật ca trù chỉ phù hợp với tầng lớp trí thức xưa",
+                    "Sự phục hưng của ca trù là không thể thực hiện được",
+                    "Chỉ có những nhà nghiên cứu mới có thể cứu vãn nghệ thuật truyền thống"
+                ],
+                "correct": "Ca trù là một loại hình nghệ thuật cần được bảo tồn như một phần bản sắc dân tộc"
+            },
+            {
+                "question": "Theo bài đọc, yếu tố nào tạo nên vẻ đẹp “đài các, kín đáo” của người nghệ sĩ ca trù?",
+                "options": [
+                    "Sự kết hợp giữa trang phục lộng lẫy và vũ đạo",
+                    "Việc duy trì hình thái gương mặt đoan trang cùng kỹ thuật hát điêu luyện",
+                    "Sự đối thoại trực tiếp với khán giả trong không gian ca quán",
+                    "Việc sử dụng các loại nhạc cụ đa dạng"
+                ],
+                "correct": "Việc duy trì hình thái gương mặt đoan trang cùng kỹ thuật hát điêu luyện"
+            },
+            {
+                "question": "Cụm từ “xóa nhòa ranh giới đẳng cấp” trong đoạn hai ám chỉ điều gì?",
+                "options": [
+                    "Sự bình đẳng giữa nam và nữ trong ca trù",
+                    "Sự giao hòa giữa chủ và khách trong không gian nghệ thuật",
+                    "Việc xóa bỏ các quy định khắt khe của hệ thống âm nhạc",
+                    "Sự thay đổi về địa vị xã hội của các nghệ nhân"
+                ],
+                "correct": "Sự giao hòa giữa chủ và khách trong không gian nghệ thuật"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
